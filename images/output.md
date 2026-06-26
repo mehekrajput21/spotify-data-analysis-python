@@ -5,3 +5,4 @@
 <img width="989" height="512" alt="songs per year" src="https://github.com/user-attachments/assets/eb016c7c-4c47-42b4-9db5-f0f30de13b09" />
 <img width="1470" height="646" alt="avg duration by year" src="https://github.com/user-attachments/assets/6344e79b-0e0a-4d33-8b22-9361a47ea19c" />
 <img width="892" height="468" alt="top genres by popularity" src="https://github.com/user-attachments/assets/f48442d3-5370-4fca-8a76-396e6fbe6759" />
+
